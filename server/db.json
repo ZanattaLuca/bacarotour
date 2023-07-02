@@ -1,0 +1,39 @@
+{
+  "bacari": [
+    {
+      "nome": "al parlamento",
+      "affollamento": 6,
+      "costoSpritz": 3.5,
+      "location": 6,
+      "servizio": 7,
+      "cicchetto": 8
+    },
+
+    {
+      "nome": "osteria sottobanco",
+      "affollamento": 8,
+      "costoSpritz": 4,
+      "location": 8,
+      "servizio": 7,
+      "cicchetto": 8
+    },
+
+    {
+      "nome": "bacaro risorto cannaregio",
+      "affollamento": 7,
+      "costoSpritz": 5,
+      "location": 6,
+      "servizio": 7,
+      "cicchetto": 5
+    },
+
+    {
+      "nome": "sepa",
+      "affollamento": 4,
+      "costoSpritz": 0,
+      "location": 7,
+      "servizio": 8,
+      "cicchetto": 9
+    }
+  ]
+}
